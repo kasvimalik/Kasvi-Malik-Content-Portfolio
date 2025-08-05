@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Kasvi Malik – SEO Content Marketing Portfolio
 
@@ -36,8 +33,8 @@ SEO & Content Marketing Leader: AI & Creator Economy
 
 | Title | Platform | Link | 
 |-------|----------|------|
-| Example: TL;DR: The Surprising History of Payments | Chipp Fintech Newsletter | [https://chippapp.substack.com/p/tldr-the-surprising-history-of-payments](#)
-| Example: Labubu Frenzy, Giving Oura the Finger, and Why Slow Content Feels Like a Luxury | Personal Marketing & Culture Newsletter | [https://culturecurve.substack.com/p/labubu-frenzy-giving-oura-the-finger](#)
+|TL;DR: The Surprising History of Payments | Chipp Fintech Newsletter | [https://chippapp.substack.com/p/tldr-the-surprising-history-of-payments](#)
+|Labubu Frenzy, Giving Oura the Finger, and Why Slow Content Feels Like a Luxury | Personal Marketing & Culture Newsletter | [https://culturecurve.substack.com/p/labubu-frenzy-giving-oura-the-finger](#)
 
 ---
 
@@ -48,9 +45,10 @@ SEO & Content Marketing Leader: AI & Creator Economy
 - **Description:** Audacity: Women in Sport shares the stories of audacious, bold women who are going against the grain and fighting gender norms to create an impact in the world of sport, whether that’s as athletes on the field or from the sidelines as coaches, managers, or decision makers. In each episode, founder and host Kasvi Malik hears from inspiring women from different sports to identify gaps and learn about what’s working in women’s sports infrastructure across countries.
 
 **Featured Episodes:**
-Creating the Future of Women's Fitness in India | Shwetambari Shetty | https://open.spotify.com/episode/2Ss4wuhKBzEOMx7cWG5Oil?si=43fc2bb3e1e64d6b(#)
-
-Women's Basketball in Africa | Sarah Chan | https://open.spotify.com/episode/2EfQSZHOXirAbgF46tS960?si=e56acadacb494464(#)
+| Title | Platform | Link | 
+|-------|----------|------|
+|Creating the Future of Women's Fitness in India | Shwetambari Shetty | https://open.spotify.com/episode/2Ss4wuhKBzEOMx7cWG5Oil?si=43fc2bb3e1e64d6b(#)
+|Women's Basketball in Africa | Sarah Chan | https://open.spotify.com/episode/2EfQSZHOXirAbgF46tS960?si=e56acadacb494464(#)
 
 **Achievements:**  
 - Notable guests: TedX Speaker & World Record Holder (Bhakti Sharma), First African American NBA Scout (Sarah Chan), Head Fitness Expert at India's largest chain of gyms.
@@ -59,7 +57,7 @@ Women's Basketball in Africa | Sarah Chan | https://open.spotify.com/episode/2Ef
 
 ## Newsletter
 
-- **Culture Curve:** https://culturecurve.substack.com/
+- **Culture Curve:** https://culturecurve.substack.com/(#)
 - **Focus:** A weekly 5-minute newsletter to keep you effortlessly ahead of the trends shaping sports, tech, pop culture, and brand marketing.
 - **Sample Issues:** https://culturecurve.substack.com/p/the-wimbledon-edition(#), https://culturecurve.substack.com/p/crocs-digi-cams-and-trader-joes-welcome(#)
 
