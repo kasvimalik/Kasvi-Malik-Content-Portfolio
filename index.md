@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Kasvi Malik – SEO Content Marketing Portfolio
 
 ## Contact Information
